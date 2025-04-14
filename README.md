@@ -11,4 +11,6 @@ Cards created by Tara Robertson.
 
 Artwork by Allison Horst.
 
+These cards have a CC-By license [ TODO ]. They are available on Zenodo [ TODO ]. 
+
 Openscapes Mentors develop coaching skills that can help us as professionals – skills like listening rather than solutioneering, asking open-ended questions that empower people to find their own agency and meet their needs. Learn more in this 2023 blog post [How coaching skills have made us better open data science mentors](https://openscapes.org/blog/2023-05-17-mentor-coach/index.html).
