@@ -7,7 +7,7 @@ What do we mean by a “powerful question”? It’s a short question that can o
 
 Please enjoy digitally, or print [suggestion coming soon]. 
 
-Cards created by Tara Robertson.
+Cards created by Tara Robertson and Tina-Marie Meyer.
 
 Artwork by Allison Horst.
 
