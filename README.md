@@ -5,7 +5,7 @@ We use these questions as tools as we support colleagues learning new skills to 
 
 What do we mean by a “powerful question”? It’s a short question that can open up a really powerful conversation. It’s open-ended, usually starts with the word “What”, ideally is 5 words or less, and can’t be answered by yes or no. What feels like success to you? What’s in the way? What, if anything, is going unsaid? Which of your core values is being messed with?
 
-Please enjoy digitally, or print [suggestion coming soon]. 
+Please enjoy digitally, or print by downloading the pdf and printing double-sided. 
 
 Cards created by Tara Robertson and Tina-Marie Meyer.
 
