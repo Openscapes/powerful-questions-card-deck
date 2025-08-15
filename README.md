@@ -25,5 +25,5 @@ The citation will look something like:
 
 > Robertson, T. and Meyer, T.-M.(2025). Powerful Questions Card Deck v2025.08.0 (v2025.08.0). Zenodo. https://doi.org/10.5281/zenodo.16884252. 
 
-Please visit the Lesson Series [DOI link](https://doi.org/10.5281/zenodo.16884251 to get the most recent version - the one above is not automatically generated and may be out of date if we release an updated version.
+Please visit the Lesson Series [DOI link](https://doi.org/10.5281/zenodo.16884251) to get the most recent version - the one above is not automatically generated and may be out of date if we release an updated version.
 
