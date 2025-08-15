@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/966282188.svg)](https://doi.org/10.5281/zenodo.16884251)
+
 # Powerful Questions Card Deck
 
 This is a card deck of **powerful questions** that Openscapes mentors use as part of our coaching skills. 
