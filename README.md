@@ -17,7 +17,7 @@ Openscapes Mentors develop coaching skills that can help us as professionals –
 
 ### Citation
 
-These cards have an open license. They are available on Zenodo. All material in the Openscapes Lesson Series is available under a [CC-BY 4.0 licence](https://github.com/Openscapes/powerful-questions-card-deck/blob/main/LICENSE).
+These cards are available on Zenodo under a [CC-BY 4.0 licence](https://github.com/Openscapes/powerful-questions-card-deck/blob/main/LICENSE).
 
 Please cite the Powerful Questions Card Deck through the project's Zenodo archive using DOI: [10.5281/zenodo.16884251](https://doi.org/10.5281/zenodo.16884251). This DOI represents all versions, and will always resolve to the latest one.
 
